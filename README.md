@@ -1,2 +1,2 @@
-# memory-game-pok-
-Projeto de jogo da memória baseado em Pokémon
+# Jogo da Memória Pkemon
+Projeto realizado para a faculdade de Jogos Digitais, na Anhanguera.
